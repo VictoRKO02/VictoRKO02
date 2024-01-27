@@ -14,7 +14,7 @@
  
 <br>
  
-### Para acompanhar minha joranada no mundo da programação me segue no linkedin abaixo!
+### Para acompanhar minha jornada no mundo da programação me segue no linkedin abaixo!
  
 <div>  
   <a href = "mailto:mailto:victorbittencourt148@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

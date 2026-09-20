@@ -1,11 +1,12 @@
 ## Bem-vindo(a) ao perfil de VictoRKO02
 
-<div>
-  <a href="https://github.com/VictoRKO02">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictoRKO02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictoRKO02&layout=compact&langs_count=8&theme=tokyonight"/>
-  </a>
-</div>
+Sou formado em **Análise e Desenvolvimento de Sistemas**, atualmente sou estudante de **Engenharia da Computação** e desenvolvedor com interesse em transformar dados e tecnologia em soluções úteis.
+
+Atualmente, atuo principalmente com **Python, Análise de Dados, Business Intelligence, Automação e Bancos de Dados**, além de desenvolver projetos envolvendo **Inteligência Artificial, Visão Computacional, Cloud e Engenharia de Software**.
+
+Gosto de construir projetos de ponta a ponta, passando por **coleta e tratamento de dados, desenvolvimento de APIs e automações, bancos de dados, dashboards, conteinerização e deploy**.
+
+Aqui você encontrará projetos acadêmicos, experimentos, estudos e soluções desenvolvidas ao longo da minha trajetória em tecnologia.
 
 <br>
 
@@ -22,10 +23,9 @@
 
 ### Dados e Banco de Dados
 
-<div style="display: inline_block">
-  <img align="center" alt="Oracle" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
-  <img align="center" alt="PostgreSQL" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-</div>
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SAP HANA](https://img.shields.io/badge/SAP_HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 
 <br>
 
